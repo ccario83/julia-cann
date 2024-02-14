@@ -1,11 +1,8 @@
-# julia-cann
+# juliaNN
 
-This is **C**lint's **A**rtificial **N**eural **N**etwork (CANN) implemented for the Julia programming language.
-This code was generated for a final assignment in my Algorithms class as part of a PhD in bioinformatics at UCSF.   
-*Code may be of use to you, but is distributed as is!*
+This is **N**eural **N**etwork framework implemented for the Julia programming language so I could better understand both Julia and artificial neural networks.
 
 ### Files
-1. Assignment.txt -- The original guidelines for the project  
 2. autoincoder.jl -- Generates a 8x3x8 autoencoder with CANN 
 3. CANN_utils.jl -- Some neural network utility functions (read/write/encode/decode, etc..)  
 4. CANN.jl -- The neural network implementation  
